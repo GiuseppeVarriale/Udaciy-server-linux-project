@@ -15,11 +15,11 @@ It consists of setting up a linux server with things like:
 
 ## Server Detail
 
-- Public IP address: `35.170.187.166`
+- Public IP address: ~~`35.170.187.166`~~ 
 
 - SSH port: `2200`
 
-- Url: Application URL: [http://35.170.187.166.xip.io](http://35.170.187.166.xip.io)
+- Url: Application URL: ~~[http://35.170.187.166.xip.io](http://35.170.187.166.xip.io)~~
 - The virtual private server is Amazon Lighsail.
 - The Linux distribution is Ubuntu Ubuntu 18.04.2 LTS.
 - The database server is PostgreSQL.
